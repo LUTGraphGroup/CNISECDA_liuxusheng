@@ -32,5 +32,5 @@ The dataset comes from CircR2Disease and  CircR2Disease v2.0.
 - `Prepare_data.py`:  To calculate the circRNA_similarity_fusion_matrix and disease_similarity_fusion_matrix.csv
 - `chebnet_CNN.py:`  Building heterogeneous graphs, multi-order neighborhood structural features, and high-level semantic representations.
 - `GCDSAEMDA_CircR2Disease.py/GCDSAEMDA_CircR2Disease_2.0.py`:  Negative CDA selection, improved deep sparse autoencoder dimensionality reduction, CatBooost.
-- `IDSAE.py`:  improved deep sparse autoencoder model 、negative MDA selection method  and ROC(PR) curve drawing method 
+- `IDSAE.py`:  improved deep sparse autoencoder model 、negative CDA selection method  and ROC(PR) curve drawing method 
 
