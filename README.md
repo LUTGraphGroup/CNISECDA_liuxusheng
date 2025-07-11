@@ -20,7 +20,7 @@ The dataset comes from CircR2Disease and  CircR2Disease v2.0.
 ## Input file
 
 - `circRNA_disease_association_matrix.csv`：The correlation matrix between circRNAS and diseases
-- `disease_semantic_similarity.csv`:Disease semantic similarity matrix
+- `disease_semantic_similarity.csv`: Disease semantic similarity matrix
 - `disease_GIP_similarity.csv`：Disease Gaussian Interaction Profile Kernel (GIP) similarity matrix
 - `disease_similarity_fusion_matrix.csv`：A comprehensive similarity matrix that integrates disease semantic similarity and GIP similarity
 - `circRNA_functional_similarity.csv`： circRNA functional similarity matrix
