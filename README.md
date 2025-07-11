@@ -19,7 +19,7 @@ The dataset comes from CircR2Disease and  CircR2Disease v2.0.
 
 ## Input file
 
-- `circRNA_disease_association_matrix.csv`：The correlation matrix between circRNAS and diseases，The first column represents the various names of circRNA, and the first row represents the various names of diseases. In addition, the intersection of the rows and columns corresponding to circRNA and diseases is 1, indicating a known association, and 0, indicating an unknown association
+- `circRNA_disease_association_matrix.csv`：The correlation matrix between circRNAS and diseases
 - `disease_semantic_similarity.csv`:Disease semantic similarity matrix
 - `disease_GIP_similarity.csv`：Disease Gaussian Interaction Profile Kernel (GIP) similarity matrix
 - `disease_similarity_fusion_matrix.csv`：A comprehensive similarity matrix that integrates disease semantic similarity and GIP similarity
