@@ -13,7 +13,7 @@ from torch import nn
 import torch.nn.functional as F
 from dgl.nn.pytorch import GINConv, SAGEConv
 '''
-    使用GAT_CNN模块生成特征矩阵：cnn_outputs
+    使用ChebNet_CNN模块生成特征矩阵：cnn_outputs
 '''
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
